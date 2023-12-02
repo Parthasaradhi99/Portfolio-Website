@@ -1,0 +1,15 @@
+{
+  "name": "single-page-developer-portfolio-frontend-mentor",
+  "version": "1.0.0",
+  "description": "<img src=\"assets/images/preview.webp\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Partha Saradhi",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
